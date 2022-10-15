@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on NLP project like neural machine translation , text to speech and speech to text 
 - 👀 I'm also looking for job in Healthcare , finance , humanitary and meteorigical sectors
 - 📫 How to reach me ...
+- I like challenge and I want to perform in any area where it is possible to get data and find values
 
 <!---
 konaken73/konaken73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
